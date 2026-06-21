@@ -364,7 +364,7 @@ body{
         <p class="punch">⚡ 60 segundos para activar tu prueba gratuita</p>
       </div>
       <div class="ad-banner-cta">
-        <a class="cta-btn" href="#">QUIERO PROTEGER MI EMPRESA →</a>
+        "><span class="cta-btn">#">QUIERO PROTEGER MI EMPRESA →</a>
         <span class="fine">Sin tarjeta de crédito · Cancela cuando quieras</span>
       </div>
     </div>
@@ -437,7 +437,7 @@ body{
         <p class="punch">🔥 Oferta de lanzamiento: 3 meses sin costo</p>
       </div>
       <div class="ad-banner-cta">
-        <a class="cta-btn" href="#">RESERVAR MI MIGRACIÓN →</a>
+        "><span class="cta-btn">#">RESERVAR MI MIGRACIÓN →</a>
         <span class="fine">Plazas limitadas este mes</span>
       </div>
     </div>
@@ -505,7 +505,7 @@ body{
         <p class="punch">🚀 Agenda una auditoría gratuita de tu modelo actual</p>
       </div>
       <div class="ad-banner-cta">
-        <a class="cta-btn" href="#">QUIERO MI AUDITORÍA →</a>
+        "><span class="cta-btn">#">QUIERO MI AUDITORÍA →</a>
         <span class="fine">Cupos limitados esta semana</span>
       </div>
     </div>
@@ -577,7 +577,7 @@ body{
         <p class="punch">✅ Prueba VaultLine gratis durante 14 días</p>
       </div>
       <div class="ad-banner-cta">
-        <a class="cta-btn" href="#">ACTIVAR PRUEBA GRATIS →</a>
+        "><span class="cta-btn">#">ACTIVAR PRUEBA GRATIS →</a>
         <span class="fine">Configuración guiada incluida</span>
       </div>
     </div>
@@ -703,7 +703,7 @@ body{
         <p class="punch">🎓 Beca del 20% para los primeros 30 inscritos</p>
       </div>
       <div class="ad-banner-cta">
-        <a class="cta-btn" href="#">RESERVAR MI CUPO →</a>
+        "><span class="cta-btn">#">RESERVAR MI CUPO →</a>
         <span class="fine">Modalidad virtual · Certificación incluida</span>
       </div>
     </div>
